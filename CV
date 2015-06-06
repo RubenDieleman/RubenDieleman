@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head> <meta charset="utf-8">
+
+<title> Ruben Dieleman </title>
+<link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
+</head>
+
+<body>
+
+<header> 
+<h1> Ermahgerd </h1>
+</header>
+
+<aside> 
+
+<p>   </p>
+<p>
+<a href="index.html">Studie</a>
+</p>
+<p>
+<a href="cv.html">CV</a>
+</p>
+<p>
+<a href="publications.html">Publicaties</a>
+</p>
+<p></p>
+
+<section>
+
+<h4> Niggawut </h4>
+
+<h5> Yo momma </h5>
+
+<p>
+Naam: Ruben <br />
+Contact: See <a href="contact.html">here</a>
+</p>
+
+<h5>Interesses</h5>
+
+<p>
+I dunno <i>'bout coding</i> but I like it <br />
+
+Keywords: stuff, things.
+</p>
+
+
+<h5>Dingen</h5>
+
+<ul>
+<li>
+Op een bepaald momenten (<i>deed ik dingen</i>).
+</li>
+
+</ul>
+
+</section>
+
+<footer> Ga weg </footer>
+
+</body>
+
+</html>
