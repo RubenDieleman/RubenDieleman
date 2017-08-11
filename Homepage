@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Ruben Dieleman</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Ruben Dieleman</h1>
+        <p>Göteborgs Universitet
+        <br>Sprängkullsgatan 19
+        <br>Göteborg, Sweden</p>
+         <p>Email: <a href="mailto:#">ruben.dieleman@protonmail.com</a></p>
+        <p></p>
+        
+<p><a href="(link)"><b>Research</b></a></p>
+<p><a href="(link)"><b>Teaching</b></a></p> 
+<p><a href="(link)"><b>Outreach</b></a></p><br/> <br/>
+
+        <p class="view"><a href="(personal page)">View My GitHub Profile</a></p>
+
+      </header>
+      <section>
+        <p>I am a researcher at <a href="http://partiforskning.gu.se/Forskning+om+partier/mipok">Gothenburg University at the political science department for a project called MIPOK</a>.</p>
+        
+<p>Interests include European political parties, public opinion, survey methodology, and theories of representative democracy.</p>
+
+<p>Other working experience.... </p>
+
+<p>Voluntary work etc. </p>
+ 
+  </body>
+</html>
